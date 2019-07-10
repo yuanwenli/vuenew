@@ -1,5 +1,5 @@
 <template>
-    
+    <h1>新文件</h1>
 </template>
 
 <script>
